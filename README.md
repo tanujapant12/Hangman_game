@@ -1,4 +1,3 @@
-Hangman_game
 Hangman Python Project
 This Hangman Python project is a command-line game that challenges players to guess a word by suggesting letters within a limited number of attempts. It aims to provide an entertaining and interactive gaming experience while testing players' vocabulary and problem-solving skills.
 
